@@ -47,3 +47,4 @@ const invert = (arr) => {
     drum[i] = !drum[i];
   }
 }
+
